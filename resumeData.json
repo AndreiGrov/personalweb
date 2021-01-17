@@ -85,12 +85,7 @@
   },
   "portfolio":{
     "projects": [
-      {
-        "title":"Personal Resume Website",
-        "category":"A website I constructed to inform people about my skills and interests. It allows me to showcase my resume and helped me practice my web development skills.",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.andreigrovu.com"
-      },
+
       {
         "title":"IN PROGRESS",
         "category":"More projects coming soon, stay tuned!",
